@@ -1,12 +1,12 @@
 Package: stat536
-Title: What the Package Does (One Line, Title Case)
+Title: Dynamic Linear Models
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Andre",
+           family = "Hoegh",
            role = c("aut", "cre"),
-           email = "first.last@example.com")
-Description: What the package does (one paragraph).
+           email = "andrew.hoegh@montana.edu")
+Description: Function that contains tools for simulating and fitting basic dynamic linear models.
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
